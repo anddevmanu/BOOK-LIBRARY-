@@ -10,3 +10,6 @@ http://localhost:8081/books
 
 get book by book id
 http://localhost:8081/books/B4232
+
+
+Mysql Database schema attached .
